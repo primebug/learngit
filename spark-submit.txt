@@ -1,0 +1,1 @@
+spark-submit --master yarn --deploy-mode cluster --excutor-memory 12G --executor-cores 10 --driver-memory 12g home_status_shortterm_test.py 
